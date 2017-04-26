@@ -13,8 +13,8 @@
 // data types
 typedef unsigned int			uint;
 typedef unsigned char			uchar;
-typedef char					byte;
-typedef unsigned short 			ushort;
+typedef char							byte;
+typedef unsigned short 		ushort;
 
 // empty debug print out
 //#define _ENABLE_UART_DEBUG
